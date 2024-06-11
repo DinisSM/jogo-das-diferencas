@@ -7,26 +7,8 @@ import base64
 from streamlit_modal import Modal
 import random
 
-# Function to get base64 of image
-def get_base64_of_bin_file(bin_file):
-    with open(bin_file, 'rb') as f:
-        data = f.read()
-    return base64.b64encode(data).decode()
-
-# Function to set background image
-def set_background(image):
-    bin_str = get_base64_of_bin_file(image)
-    page_bg_img = '''
-    <style>
-    .stApp {
-        background-image: url('data:image/png;base64,%s');
-        background-size: cover;
-    }
-    </style>
-    ''' % bin_str
-    st.markdown(page_bg_img, unsafe_allow_html=True)
-
-# Set background image
-background_image_path = "fundo.png"
-set_background(background_image_path)
+imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel6o.jpg"
+original_image1 = Image.open(imagem1)
+new_size = (300, 300)
+resized_image = original_image1.resize(new_size)
 
