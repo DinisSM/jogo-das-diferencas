@@ -7,7 +7,7 @@ import base64
 from streamlit_modal import Modal
 import random
 
-imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel6o.jpg"
+imagem1= "Nivel6o.jpg"
 original_image1 = Image.open(imagem1)
 new_size = (300, 300)
 resized_image = original_image1.resize(new_size)
