@@ -25,7 +25,7 @@ def set_background(image):
     ''' % bin_str
     st.markdown(page_bg_img, unsafe_allow_html=True)
     
-background_image_path = "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\fundo.png"
+background_image_path = "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\fundo.png"
 set_background(background_image_path)
 
 #Criar colunas
@@ -70,7 +70,7 @@ if 'ndicas' not in st.session_state:
 
 #logotipo
 with col1:
-    logo= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\logo.jpg"
+    logo= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\logo.jpg"
     logo1 = Image.open(logo)
     new_size2 = (40, 30)
     logo_imagem = logo1.resize(new_size2)
