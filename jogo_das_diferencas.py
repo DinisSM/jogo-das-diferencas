@@ -27,6 +27,6 @@ def set_background(image):
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Set background image
-background_image_path = "https://github.com/DinisSM/jogo-das-diferencas/blob/main/imagens/fundo.png?raw=true"
+background_image_path = "https://github.com/DinisSM/jogo-das-diferencas/blob/main/imagens/fundo.png"
 set_background(background_image_path)
 
