@@ -1,0 +1,54 @@
+[33mcommit 355dff36ac764774e57b82f2b4aea34b133e66c3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 438e561 aebe0ae
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 20:16:57 2024 +0100
+
+    Merge branch 'main' of https://github.com/DinisSM/jogo-das-diferencas
+
+[33mcommit 438e5616ffa636b43f8e9fc7d84f1c5967986a0b[m
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 20:16:36 2024 +0100
+
+    Adicionando imagens ao repositório
+
+[33mcommit aebe0ae3d4ea91a73a65eb691a61581444108789[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 20:14:55 2024 +0100
+
+    Update jogo_das_diferencas.py
+
+[33mcommit 0212370ef5e2bc633894ddb20164b2ebbfaad994[m
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 19:51:38 2024 +0100
+
+    Update jogo_das_diferencas.py
+
+[33mcommit d47750c0638895fb7bed396b3135fee25ad45a08[m
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 19:45:47 2024 +0100
+
+    Update jogo_das_diferencas.py
+
+[33mcommit b9372290cc06b314942fa75f06b0d17cf94f306a[m
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 19:26:19 2024 +0100
+
+    Added Dev Container Folder
+
+[33mcommit cf4c07e51e14112d434c8af66abf4349f9a1ee72[m
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 19:16:59 2024 +0100
+
+    first commit
+
+[33mcommit 127980889e1882fbb248637a732e6ee0d39516d1[m
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 19:10:49 2024 +0100
+
+    Adicionando jogo_das_diferencas.py
+
+[33mcommit f4bd212a9a2552c0ad3616dd8a318e8339fc43a8[m
+Author: DinisSM <dinis.silva.marcal@gmail.com>
+Date:   Tue Jun 11 18:58:56 2024 +0100
+
+    Adicionando jogo_das_diferencas e requisitos

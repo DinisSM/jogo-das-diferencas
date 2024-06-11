@@ -3073,7 +3073,7 @@ if st.session_state['menu1'] == 1:
                 if 'ndica1' not in st.session_state:
                     st.session_state['ndica1'] = 0
 
-                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel9o.jpg"
+                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel9o.jpg"
                 original_image1 = Image.open(imagem1)
                 new_size = (300, 370)
                 resized_image = original_image1.resize(new_size)
@@ -3081,7 +3081,7 @@ if st.session_state['menu1'] == 1:
                 with col3:
                     valor = streamlit_image_coordinates(resized_image, key="pil")
 
-                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel9a.jpg"
+                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel9a.jpg"
                     original_image2 = Image.open(imagem2)
                     resized_image2 = original_image2.resize(new_size)
                     
@@ -3477,7 +3477,7 @@ if st.session_state['menu1'] == 1:
                 if 'ndica1' not in st.session_state:
                     st.session_state['ndica1'] = 0
                     
-                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel7o.jpg"
+                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel7o.jpg"
                 original_image1 = Image.open(imagem1)
                 new_size = (300, 300)
                 resized_image = original_image1.resize(new_size)
@@ -3485,7 +3485,7 @@ if st.session_state['menu1'] == 1:
                 with col3:
                     valor = streamlit_image_coordinates(resized_image, key="pil")
 
-                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel7a.jpg"
+                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel7a.jpg"
                     original_image2 = Image.open(imagem2)
                     resized_image2 = original_image2.resize(new_size)
                     
@@ -3794,7 +3794,7 @@ if st.session_state['menu1'] == 1:
                 if 'ndica1' not in st.session_state:
                     st.session_state['ndica1'] = 0
 
-                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel8o.jpg"
+                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel8o.jpg"
                 original_image1 = Image.open(imagem1)
                 new_size = (300, 400)
                 resized_image = original_image1.resize(new_size)
@@ -3802,7 +3802,7 @@ if st.session_state['menu1'] == 1:
                 with col3:
                     valor = streamlit_image_coordinates(resized_image, key="pil")
 
-                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel8a.jpg"
+                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel8a.jpg"
                     original_image2 = Image.open(imagem2)
                     resized_image2 = original_image2.resize(new_size)
                     
@@ -4148,7 +4148,7 @@ if st.session_state['menu1'] == 1:
                     st.session_state['ndica1'] = 0
 
                 #Imagem original
-                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel1o.jpg"
+                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel1o.jpg"
                 original_image1 = Image.open(imagem1)
                 new_size = (275, 375)
                 resized_image = original_image1.resize(new_size)
@@ -4159,7 +4159,7 @@ if st.session_state['menu1'] == 1:
                     valor = streamlit_image_coordinates(resized_image, key="pil")
                     
                     #Imagem alterada
-                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel1a.jpg"
+                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel1a.jpg"
                     original_image2 = Image.open(imagem2)
                     resized_image2 = original_image2.resize(new_size)
                     
@@ -4402,7 +4402,7 @@ if st.session_state['menu1'] == 1:
                 if 'ndica1' not in st.session_state:
                     st.session_state['ndica1'] = 0
 
-                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel2o.jpg"
+                imagem1= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel2o.jpg"
                 original_image1 = Image.open(imagem1)
                 new_size = (300, 375)
                 resized_image = original_image1.resize(new_size)
@@ -4410,7 +4410,7 @@ if st.session_state['menu1'] == 1:
                 with col3:
                     valor = streamlit_image_coordinates(resized_image, key="pil")
 
-                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\jogo_das_diferencas\\Nivel2a.jpg"
+                    imagem2= "C:\\Users\\dinis\\OneDrive\\Ambiente de Trabalho\\imagens\\Nivel2a.jpg"
                     original_image2 = Image.open(imagem2)
                     resized_image2 = original_image2.resize(new_size)
                     
