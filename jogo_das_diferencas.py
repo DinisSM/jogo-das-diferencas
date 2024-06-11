@@ -7,7 +7,7 @@ import base64
 from streamlit_modal import Modal
 import random
 
-imagem1= "https://github.com/DinisSM/jogo-das-diferencas/blob/main/imagens/Nivel6o.jpg?raw=true"
+imagem1= "https://github.com/DinisSM//jogo-das-diferencas//blob//main//imagens//Nivel6o.jpg?raw=true"
 original_image1 = Image.open(imagem1)
 new_size = (300, 300)
 resized_image = original_image1.resize(new_size)
